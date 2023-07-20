@@ -1,2 +1,2 @@
 # desk
-desk repo
+desk repo for command demonstration
